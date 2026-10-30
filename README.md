@@ -1,6 +1,6 @@
 # Landings TikTok
 
-Nine independent static landing pages for GitHub Pages. Each directory contains its own index.html.
+Ten independent static landing pages for GitHub Pages. Each directory contains its own index.html.
 
 - orofairesboya/
 - faireroyaleboy/
@@ -11,3 +11,4 @@ Nine independent static landing pages for GitHub Pages. Each directory contains 
 - jogarapp33/
 - sooloitemrobu/
 - pontoalimentar/
+- kutitrucos/

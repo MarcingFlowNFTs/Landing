@@ -11,4 +11,4 @@ Ten independent static landing pages for GitHub Pages. Each directory contains i
 - jogarapp33/
 - sooloitemrobu/
 - pontoalimentar/
-- kutitrucos/
+- guia-kuti/
